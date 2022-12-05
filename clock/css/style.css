@@ -1,0 +1,12 @@
+#time, #date, #dates, #zone{
+  text-align: center;
+   font-size: 90px; 
+font-family: Orbitron;
+   padding-top:10px;
+     letter-spacing: 7px;
+}
+
+body {
+
+    background-color: skyblue;
+}
